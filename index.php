@@ -1,0 +1,3 @@
+<? 
+  echo "Prueba de sincronización"
+?>
